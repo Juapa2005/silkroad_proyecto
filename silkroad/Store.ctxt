@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Store
+comment0.text=\r\n\ Clase\ que\ representa\ la\ tienda\ en\ la\ ruta\ de\ seda.\r\n\ Cada\ tienda\ tiene\ una\ localizaci\u00F3n\ y\ un\ monto\ de\ dinero\r\n
+comment1.params=location\ tenges
+comment1.target=Store(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ Store.\r\n
+comment2.params=
+comment2.target=int\ getLocation()
+comment2.text=\ \r\n\ Devuelve\ la\ posici\u00F3n\ de\ la\ tienda\ \r\n
+comment3.params=
+comment3.target=int\ getTenges()
+comment3.text=Devuelve\ el\ dinero\ actual\ de\ la\ tienda
+comment4.params=
+comment4.target=void\ resupply()
+comment4.text=Reabastece\ la\ tienda
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=Borra\ la\ representaci\u00F3n
+comment6.params=
+comment6.target=java.lang.String\ randomColor()
+comment6.text=Genera\ un\ color\ aleatorio
+numComments=7

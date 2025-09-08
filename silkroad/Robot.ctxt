@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Clase\ que\ representa\ un\ robot\ en\ la\ ruta\ de\ seda.\r\n\ Cada\ robot\ tiene\ una\ posici\u00F3n\ \r\n
+comment1.params=location
+comment1.target=Robot(int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Robot.\r\n\ @param\ location\ posici\u00F3n\ inicial\ en\ la\ ruta\r\n
+comment2.params=
+comment2.target=int\ getLocation()
+comment2.text=Devuelve\ la\ pos\ actual
+comment3.params=
+comment3.target=int\ getInitialLocation()
+comment3.text=Devuelve\ la\ pos\ inicial
+comment4.params=meters
+comment4.target=void\ move(int)
+comment4.text=Mueve\ el\ robot\ una\ cantidad\ de\ pasos
+comment5.params=
+comment5.target=void\ returnToInitial()
+comment5.text=Regresa\ el\ robot\ a\ su\ posici\u00F3n\ inicial
+comment6.params=
+comment6.target=void\ erase()
+comment6.text=Borra\ la\ representaci\u00F3n
+comment7.params=
+comment7.target=java.lang.String\ randomColor()
+comment7.text=Genera\ un\ color\ aleatorio
+numComments=8
